@@ -37,7 +37,7 @@ nav ul{
 }
 
 nav .menu-item { /*li = element en bloc (qui va d'une marge à l'autre*/
-	width: 160px;
+	width: 155px;
 	float: left;
 	text-align: center;
 	height: 60px;
